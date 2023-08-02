@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="ratings">Ratings</string>
+    <string name="insert">INSERT</string>
+    <string name="display">DISPLAY</string>
+    <string name="movieTitle">My Movies</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="movieID">Movie ID</string>
+    <string name="back">BACK</string>
+    <string name="showAll">SHOW ALL PG-13 MOVIES</string>
+
+</resources>
